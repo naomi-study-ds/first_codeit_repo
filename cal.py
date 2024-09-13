@@ -15,3 +15,4 @@ def alram():
 
 def adv():
     print('광고를 시청해주세요')
+    print('이 광고는 무료사용자에게만 보입니다')
