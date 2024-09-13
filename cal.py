@@ -6,3 +6,6 @@ def divide(a, b):
     return a / b
 def multiply(a, b):
     return a * b
+
+def rest_time():
+    print('매 시간 50분은 쉬는시간입니다')
