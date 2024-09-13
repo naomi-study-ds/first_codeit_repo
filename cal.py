@@ -13,5 +13,6 @@ def rest_time():
 def alram():
     print('5분뒤 쉬는 시간입니다')
 
-def adv():
+def adv_premium():
     print('광고를 시청해주세요')
+    print('이 광고는 유료사용자에게만 보입니다')
